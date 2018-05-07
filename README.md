@@ -4,7 +4,7 @@ This is a demo of a simple in-browser object detection app. It uses TensorFlow.j
 
 ## Demo
 
-![demo](https://github.com/anuyorker/tf-js-demo/src/assets/demo.gif)
+![demo](https://github.com/anuyorker/tf-js-demo/blob/master/src/assets/demo.gif)
 
 ## Install Dependencies
 
