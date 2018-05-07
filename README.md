@@ -2,7 +2,9 @@
 
 This is a demo of a simple in-browser object detection app. It uses TensorFlow.js to run a "You Only Look Once" ([YOLO](https://github.com/ModelDepot/tfjs-yolo-tiny)) deep learning model to detect objects locally in the browser.
 
-<!-- TODO: Add gif of demo -->
+## Demo
+
+![demo]('/src/assets/demo.gif')
 
 ## Install Dependencies
 
